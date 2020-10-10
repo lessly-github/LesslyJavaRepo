@@ -7,7 +7,6 @@
   <groupId>com.lessly.mavenprojectgroup</groupId>
   <artifactId>mydocker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>maven-archetype</packaging>
 
   <name>Archetype - mydocker</name>
 
